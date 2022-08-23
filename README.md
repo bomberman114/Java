@@ -13,4 +13,7 @@
    - sub01.While실습# Java
 ## Ch04.Java 배열과 메서드
    -sub01. Java 배열 Array 실습
+   -sub02. Java 메서드 실습
+   -sub03. Java 메서드 타입 실습
+   -sub04. Java 메서드 오버로딩(Overloading) 실습
 # Java
