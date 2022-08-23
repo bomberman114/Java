@@ -7,13 +7,13 @@
    - sub03.연산자 실습
    
 ## Ch03.Java 제어문
-   - sub01.If실습
-   - sub01.Switch실습
-   - sub01.For실습
-   - sub01.While실습# Java
+   - sub01.If 실습
+   - sub01.Switch 실습
+   - sub01.For 실습
+   - sub01.While 실습
 ## Ch04.Java 배열과 메서드
-   -sub01. Java 배열 Array 실습
-   -sub02. Java 메서드 실습
-   -sub03. Java 메서드 타입 실습
-   -sub04. Java 메서드 오버로딩(Overloading) 실습
+   - sub01. Java 배열 Array 실습
+   - sub02. Java 메서드 실습
+   - sub03. Java 메서드 타입 실습
+   - sub04. Java 메서드 오버로딩(Overloading) 실습
 # Java
