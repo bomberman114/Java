@@ -17,8 +17,8 @@
    - sub03. Java 메서드 타입 실습
    - sub04. Java 메서드 오버로딩(Overloading) 실습
    
- ## Ch05.Java 객체지향 프로그래밍	
-	- sub01. Java 클래스와 객체
-	- sub02. Java 캡슐화
+ ## Ch05.Java 객체지향 프로그래밍
+   - sub01. Java 클래스와 객체
+   - sub02. Java 캡슐화
 
 # Java
