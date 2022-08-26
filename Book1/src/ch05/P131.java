@@ -15,8 +15,4 @@ public class P131 {
 	char gender;
 	boolean married;
 
-	public static void main(String[] args) {
-
-	}
-
 }

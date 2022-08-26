@@ -14,8 +14,5 @@ public class P129 {
 	int grade;
 	String address;
 
-	public static void main(String[] args) {
-
-	}
-
+	
 }
