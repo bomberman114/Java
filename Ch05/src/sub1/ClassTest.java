@@ -4,7 +4,9 @@ package sub1;
  * 날짜 : 2022/08/25
  * 이름 : 조현길
  * 내용 : Java 클래스 실습하기 
- *                           
+ * 클래스와 객체
+ * - 클래스는 객체를 생성하는 구조체이고 속성(필드)과 기능(메서드)으로 구성
+ * - 객체는 클래스의 실제 이느턴스이고 new 연산으로 생성                  
  */
 public class ClassTest {
 	public static void main(String[] args) {
