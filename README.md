@@ -27,7 +27,7 @@
    - sub07. Java 다형성 실습
    
 ## Ch06.Java 객체지향 고급
-	- sub01. Java 추상 클래스 실습
-	- sub02. Java 인터페이스 실습
+   - sub01. Java 추상 클래스 실습
+   - sub02. Java 인터페이스 실습
 
 
