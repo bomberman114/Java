@@ -1,6 +1,6 @@
-package sub5;
+package sub6;
 
-public class Sedan extends Car { //Car 상속받았다.
+public class Sedan extends Car { // Car 상속받았다.
 
 	private int cc;
 
@@ -8,6 +8,11 @@ public class Sedan extends Car { //Car 상속받았다.
 		super(name, color, speed);
 		this.cc = cc;
 
+	}
+
+	@Override
+	public void speedUp(int speed) {
+		this.speed += speed + 20;
 	}
 
 	public void speedTurbo() {

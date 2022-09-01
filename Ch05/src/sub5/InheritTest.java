@@ -58,7 +58,7 @@ public class InheritTest {
 		Sedan sonata = new Sedan("소나타", "흰색", 0, 2000);
 		Truck bongo = new Truck("봉고", "파란색", 0, 0);
 		sonata.speedUp(100);
-		sonata.speedTubo();
+		sonata.speedTurbo();
 		sonata.show();
 
 		bongo.load(100);
