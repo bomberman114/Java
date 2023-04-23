@@ -80,3 +80,15 @@
 	- sub1.HTTP 실습
 	- sub2.소켓 프로그래밍 실습
 	- sub3.채팅 프로그램 실습
+	
+## ch15.GUI 프로그래밍
+    - sub1.Java GUI 프로그래밍 실습
+	- sub2.컴포넌트 실습
+	- sub3.이벤트 실습
+	
+##  수행평가
+    - sub1. UserManager
+	- sub2. Book1
+##  수업예제
+    - sub1.Exam
+    - sub2.Test01	
